@@ -1,0 +1,10 @@
+{
+  "departments": {
+    "HR": ["Anita", "Rahul"],
+    "Finance": ["Sonia", "Kiran"],
+    "Engineering": ["Kiara", "Vikram"],
+    "Marketing": ["Riya", "Alok"]
+  },
+  "nonDepartmentEmployees": ["Nidhi", "Ajay", "Zara"],
+  "levels": ["L1", "L2, L2", "L1, L2, L3"]
+}

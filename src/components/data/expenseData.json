@@ -1,0 +1,16 @@
+{
+  "Food": {
+    "Breakfast": "",
+    "Lunch": "",
+    "Dinner": ""
+  },
+  "Travel": {
+    "Taxi": "",
+    "Bus": "",
+    "Train": ""
+  },
+  "Shopping": {
+    "Clothes": "",
+    "Electronics": ""
+  }
+}
